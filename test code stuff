@@ -1,0 +1,11 @@
+package test;
+
+class displayer {
+public static void main(String
+		args[]) {
+	/* the part below is the code to make the computer 'speak'*/
+	System.out.println("you'll love java!");
+	System.out.println("see?");
+	System.out.println("told ya");
+}
+}
